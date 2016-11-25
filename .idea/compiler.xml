@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+      <entry name="!?*.aj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="dearbinge-client-test" />
+        <module name="dearbinge-data-api" />
+        <module name="dearbinge-data-domain" />
+        <module name="dearbinge-data-provider" />
+        <module name="dearbinge-openapi" />
+        <module name="dearbinge-security" />
+        <module name="dearbinge-utils" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dearbinge-client-test" target="1.5" />
+      <module name="dearbinge-data-api" target="1.5" />
+      <module name="dearbinge-data-domain" target="1.5" />
+      <module name="dearbinge-data-provider" target="1.5" />
+      <module name="dearbinge-openapi" target="1.6" />
+      <module name="dearbinge-parent" target="1.5" />
+      <module name="dearbinge-security" target="1.5" />
+      <module name="dearbinge-utils" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

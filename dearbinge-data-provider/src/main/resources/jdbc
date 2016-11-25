@@ -1,5 +1,5 @@
 driver=com.mysql.jdbc.Driver
-url=jdbc:mysql://192.168.1.118:3306/cloudplate
+url=jdbc:mysql://115.159.64.129:3306/cloudplate
 username=root
 password=root
 initialSize=0

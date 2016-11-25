@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dearbinge-client-test/dearbinge-client-test.iml" filepath="$PROJECT_DIR$/dearbinge-client-test/dearbinge-client-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dearbinge-data-api/dearbinge-data-api.iml" filepath="$PROJECT_DIR$/dearbinge-data-api/dearbinge-data-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dearbinge-data-domain/dearbinge-data-domain.iml" filepath="$PROJECT_DIR$/dearbinge-data-domain/dearbinge-data-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dearbinge-data-provider/dearbinge-data-provider.iml" filepath="$PROJECT_DIR$/dearbinge-data-provider/dearbinge-data-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dearbinge-openapi/dearbinge-openapi.iml" filepath="$PROJECT_DIR$/dearbinge-openapi/dearbinge-openapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dearbinge-parent.iml" filepath="$PROJECT_DIR$/dearbinge-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dearbinge-security/dearbinge-security.iml" filepath="$PROJECT_DIR$/dearbinge-security/dearbinge-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dearbinge-utils/dearbinge-utils.iml" filepath="$PROJECT_DIR$/dearbinge-utils/dearbinge-utils.iml" />
+    </modules>
+  </component>
+</project>
