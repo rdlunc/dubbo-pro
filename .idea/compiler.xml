@@ -40,6 +40,7 @@
       <module name="dearbinge-parent" target="1.5" />
       <module name="dearbinge-security" target="1.5" />
       <module name="dearbinge-utils" target="1.5" />
+      <module name="product" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

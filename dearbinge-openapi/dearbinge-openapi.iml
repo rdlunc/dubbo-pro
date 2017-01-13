@@ -52,6 +52,9 @@
     <orderEntry type="module" module-name="dearbinge-security" />
     <orderEntry type="library" name="Maven: org.apache.tomcat.embed:tomcat-embed-core:8.0.30" level="project" />
     <orderEntry type="module" module-name="dearbinge-utils" />
+    <orderEntry type="library" name="Maven: commons-httpclient:commons-httpclient:3.1" level="project" />
+    <orderEntry type="library" name="Maven: commons-logging:commons-logging:1.0.4" level="project" />
+    <orderEntry type="library" name="Maven: commons-codec:commons-codec:1.2" level="project" />
     <orderEntry type="module" module-name="dearbinge-data-api" />
     <orderEntry type="module" module-name="dearbinge-data-domain" />
     <orderEntry type="library" name="Maven: com.alibaba:dubbo:2.5.3" level="project" />
