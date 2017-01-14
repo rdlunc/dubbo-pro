@@ -31,16 +31,15 @@
         <module name="dearbinge-utils" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="dearbinge-client-test" target="1.5" />
-      <module name="dearbinge-data-api" target="1.5" />
-      <module name="dearbinge-data-domain" target="1.5" />
-      <module name="dearbinge-data-provider" target="1.5" />
+    <bytecodeTargetLevel target="1.8">
+      <module name="dearbinge-client-test" target="1.8" />
+      <module name="dearbinge-data-api" target="1.8" />
+      <module name="dearbinge-data-domain" target="1.8" />
+      <module name="dearbinge-data-provider" target="1.8" />
       <module name="dearbinge-openapi" target="1.6" />
-      <module name="dearbinge-parent" target="1.5" />
-      <module name="dearbinge-security" target="1.5" />
-      <module name="dearbinge-utils" target="1.5" />
-      <module name="product" target="1.5" />
+      <module name="dearbinge-parent" target="1.8" />
+      <module name="dearbinge-security" target="1.8" />
+      <module name="dearbinge-utils" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

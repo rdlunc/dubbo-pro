@@ -7,9 +7,9 @@
       <module fileurl="file://$PROJECT_DIR$/dearbinge-data-domain/dearbinge-data-domain.iml" filepath="$PROJECT_DIR$/dearbinge-data-domain/dearbinge-data-domain.iml" />
       <module fileurl="file://$PROJECT_DIR$/dearbinge-data-provider/dearbinge-data-provider.iml" filepath="$PROJECT_DIR$/dearbinge-data-provider/dearbinge-data-provider.iml" />
       <module fileurl="file://$PROJECT_DIR$/dearbinge-openapi/dearbinge-openapi.iml" filepath="$PROJECT_DIR$/dearbinge-openapi/dearbinge-openapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dearbinge-parent.iml" filepath="$PROJECT_DIR$/dearbinge-parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/dearbinge-security/dearbinge-security.iml" filepath="$PROJECT_DIR$/dearbinge-security/dearbinge-security.iml" />
       <module fileurl="file://$PROJECT_DIR$/dearbinge-utils/dearbinge-utils.iml" filepath="$PROJECT_DIR$/dearbinge-utils/dearbinge-utils.iml" />
-      <module fileurl="file://$PROJECT_DIR$/product.iml" filepath="$PROJECT_DIR$/product.iml" />
     </modules>
   </component>
 </project>

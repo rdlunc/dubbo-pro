@@ -2,6 +2,7 @@ package com.dearbinge.openapi;
 
 import java.io.IOException;
 import java.net.InetAddress;
+import java.util.HashMap;
 import java.util.Map;
 
 import javax.annotation.Resource;
@@ -9,11 +10,13 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
+import com.dearbinge.data.pojo.Security;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.context.annotation.ImportResource;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.servlet.config.annotation.InterceptorRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter;
 
@@ -21,7 +24,7 @@ import com.dearbinge.data.api.SecurityService;
 import com.dearbinge.security.interceptor.UserSecurityInterceptor;
 import com.dearbinge.service.InfrastructDeal;
 
-@Controller
+@RestController
 @ImportResource({ "classpath:applicationContext.xml", "dubbo-services.xml" })
 @EnableAutoConfiguration
 public class ParkingSpotDataTrans extends WebMvcConfigurerAdapter {
@@ -91,5 +94,13 @@ public class ParkingSpotDataTrans extends WebMvcConfigurerAdapter {
 	public void addInterceptors(InterceptorRegistry registry) {
 		registry.addInterceptor(new UserSecurityInterceptor()).addPathPatterns("/syncParkingBasicData");
 
+	}
+
+	@RequestMapping(value = "/getTest", method = RequestMethod.GET, produces = "application/json; charset=UTF-8")
+	public Map<String, Object> test(HttpServletRequest request, HttpServletResponse response){
+		Security security = securityService.getSecurityByKey("0eca8f5373ca4866aec2f8e9d9367104");
+		Map<String, Object> map = new HashMap<String, Object>();
+		map.put("user",security);
+		return map;
 	}
 }
