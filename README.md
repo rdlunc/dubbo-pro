@@ -1,6 +1,6 @@
 # dubbo-spring-boot-mybatis-redis
 
-项目介绍：
+项目介绍：重构齐材电商·商品管理项目
 
 1、首先安装zookeeper+redis；
 

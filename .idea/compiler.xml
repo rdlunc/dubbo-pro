@@ -22,13 +22,6 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="dearbinge-client-test" />
-        <module name="dearbinge-data-api" />
-        <module name="dearbinge-data-domain" />
-        <module name="dearbinge-data-provider" />
-        <module name="dearbinge-openapi" />
-        <module name="dearbinge-security" />
-        <module name="dearbinge-utils" />
         <module name="product-client-test" />
         <module name="product-data-api" />
         <module name="product-data-domain" />
@@ -38,15 +31,7 @@
         <module name="product-utils" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="1.8">
-      <module name="dearbinge-client-test" target="1.8" />
-      <module name="dearbinge-data-api" target="1.8" />
-      <module name="dearbinge-data-domain" target="1.8" />
-      <module name="dearbinge-data-provider" target="1.8" />
-      <module name="dearbinge-openapi" target="1.6" />
-      <module name="dearbinge-parent" target="1.8" />
-      <module name="dearbinge-security" target="1.8" />
-      <module name="dearbinge-utils" target="1.8" />
+    <bytecodeTargetLevel>
       <module name="product-client-test" target="1.8" />
       <module name="product-data-api" target="1.8" />
       <module name="product-data-domain" target="1.8" />

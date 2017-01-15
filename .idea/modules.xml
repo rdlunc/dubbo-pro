@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/product-client-test/product-client-test.iml" filepath="$PROJECT_DIR$/product-client-test/product-client-test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/product-data-api/dearbinge-data-api.iml" filepath="$PROJECT_DIR$/product-data-api/dearbinge-data-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/product-data-api/product-data-api.iml" filepath="$PROJECT_DIR$/product-data-api/product-data-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/product-data-domain/product-data-domain.iml" filepath="$PROJECT_DIR$/product-data-domain/product-data-domain.iml" />
       <module fileurl="file://$PROJECT_DIR$/product-data-provider/product-data-provider.iml" filepath="$PROJECT_DIR$/product-data-provider/product-data-provider.iml" />
       <module fileurl="file://$PROJECT_DIR$/product-openapi/product-openapi.iml" filepath="$PROJECT_DIR$/product-openapi/product-openapi.iml" />
