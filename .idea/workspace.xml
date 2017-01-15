@@ -2,113 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a108f079-a53d-4f18-af29-cb493916763e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zte_its_dearbinge_data_api_1_0_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zte_its_dearbinge_data_domain_1_0_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/product-data-api/dearbinge-data-api.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/product-data-api/src/main/java/com/product/data/api/CityService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/product-data-provider/src/main/java/com/product/data/service/impl/CityServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/product-data-provider/src/main/resources/generator.properties" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_14.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.project" afterPath="$PROJECT_DIR$/.project" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md.bak" afterPath="$PROJECT_DIR$/README.md.bak" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-client-test/.classpath" afterPath="$PROJECT_DIR$/product-client-test/.classpath" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-client-test/.gitignore" afterPath="$PROJECT_DIR$/product-client-test/.gitignore" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-client-test/.project" afterPath="$PROJECT_DIR$/product-client-test/.project" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-client-test/.settings/org.eclipse.core.resources.prefs" afterPath="$PROJECT_DIR$/product-client-test/.settings/org.eclipse.core.resources.prefs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-client-test/.settings/org.eclipse.jdt.core.prefs" afterPath="$PROJECT_DIR$/product-client-test/.settings/org.eclipse.jdt.core.prefs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-client-test/.settings/org.eclipse.m2e.core.prefs" afterPath="$PROJECT_DIR$/product-client-test/.settings/org.eclipse.m2e.core.prefs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-client-test/dearbinge-client-test.iml" afterPath="$PROJECT_DIR$/product-client-test/product-client-test.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-client-test/pom.xml" afterPath="$PROJECT_DIR$/product-client-test/pom.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-client-test/src/main/java/org/dearbinge/client/test/App.java" afterPath="$PROJECT_DIR$/product-client-test/src/main/java/org/product/client/test/App.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-data-api/.classpath" afterPath="$PROJECT_DIR$/product-data-api/.classpath" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-data-api/.gitignore" afterPath="$PROJECT_DIR$/product-data-api/.gitignore" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-data-api/.project" afterPath="$PROJECT_DIR$/product-data-api/.project" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-data-api/.settings/org.eclipse.core.resources.prefs" afterPath="$PROJECT_DIR$/product-data-api/.settings/org.eclipse.core.resources.prefs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-data-api/.settings/org.eclipse.jdt.core.prefs" afterPath="$PROJECT_DIR$/product-data-api/.settings/org.eclipse.jdt.core.prefs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-data-api/.settings/org.eclipse.m2e.core.prefs" afterPath="$PROJECT_DIR$/product-data-api/.settings/org.eclipse.m2e.core.prefs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-data-api/dearbinge-data-api.iml" afterPath="$PROJECT_DIR$/product-data-api/product-data-api.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-data-api/pom.xml" afterPath="$PROJECT_DIR$/product-data-api/pom.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-data-api/src/main/java/com/dearbinge/data/api/SecurityService.java" afterPath="$PROJECT_DIR$/product-data-api/src/main/java/com/product/data/api/SecurityService.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-data-domain/.classpath" afterPath="$PROJECT_DIR$/product-data-domain/.classpath" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-data-domain/.gitignore" afterPath="$PROJECT_DIR$/product-data-domain/.gitignore" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-data-domain/.project" afterPath="$PROJECT_DIR$/product-data-domain/.project" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-data-domain/.settings/org.eclipse.core.resources.prefs" afterPath="$PROJECT_DIR$/product-data-domain/.settings/org.eclipse.core.resources.prefs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-data-domain/.settings/org.eclipse.jdt.core.prefs" afterPath="$PROJECT_DIR$/product-data-domain/.settings/org.eclipse.jdt.core.prefs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-data-domain/.settings/org.eclipse.m2e.core.prefs" afterPath="$PROJECT_DIR$/product-data-domain/.settings/org.eclipse.m2e.core.prefs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-data-domain/dearbinge-data-domain.iml" afterPath="$PROJECT_DIR$/product-data-domain/product-data-domain.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-data-domain/pom.xml" afterPath="$PROJECT_DIR$/product-data-domain/pom.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-data-domain/src/main/java/com/dearbinge/data/domain/ErrorResponse.java" afterPath="$PROJECT_DIR$/product-data-domain/src/main/java/com/product/data/domain/ErrorResponse.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-data-domain/src/main/java/com/dearbinge/data/domain/ParkingBasicDataSyncResponse.java" afterPath="$PROJECT_DIR$/product-data-domain/src/main/java/com/product/data/domain/ParkingBasicDataSyncResponse.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-data-domain/src/main/java/com/dearbinge/data/pojo/Security.java" afterPath="$PROJECT_DIR$/product-data-domain/src/main/java/com/product/data/pojo/Security.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-data-provider/.classpath" afterPath="$PROJECT_DIR$/product-data-provider/.classpath" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-data-provider/.gitignore" afterPath="$PROJECT_DIR$/product-data-provider/.gitignore" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-data-provider/.project" afterPath="$PROJECT_DIR$/product-data-provider/.project" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-data-provider/.settings/org.eclipse.core.resources.prefs" afterPath="$PROJECT_DIR$/product-data-provider/.settings/org.eclipse.core.resources.prefs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-data-provider/.settings/org.eclipse.jdt.core.prefs" afterPath="$PROJECT_DIR$/product-data-provider/.settings/org.eclipse.jdt.core.prefs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-data-provider/.settings/org.eclipse.m2e.core.prefs" afterPath="$PROJECT_DIR$/product-data-provider/.settings/org.eclipse.m2e.core.prefs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-data-provider/dearbinge-data-provider.iml" afterPath="$PROJECT_DIR$/product-data-provider/product-data-provider.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-data-provider/pom.xml" afterPath="$PROJECT_DIR$/product-data-provider/pom.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-data-provider/src/main/java/com/dearbinge/data/dao/SecurityMapper.java" afterPath="$PROJECT_DIR$/product-data-provider/src/main/java/com/product/data/dao/SecurityMapper.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-data-provider/src/main/java/com/dearbinge/data/register/mainloader.java" afterPath="$PROJECT_DIR$/product-data-provider/src/main/java/com/product/data/register/mainloader.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-data-provider/src/main/java/com/dearbinge/data/service/impl/SecurityServiceImpl.java" afterPath="$PROJECT_DIR$/product-data-provider/src/main/java/com/product/data/service/impl/SecurityServiceImpl.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-data-provider/src/main/resources/com/dearbinge/data/mapping/SecurityMapper.xml" afterPath="$PROJECT_DIR$/product-data-provider/src/main/resources/com/product/data/mapping/SecurityMapper.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-data-provider/src/main/resources/dubbo-services.xml" afterPath="$PROJECT_DIR$/product-data-provider/src/main/resources/dubbo-services.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-data-provider/src/main/resources/dubbo-spring-mybatis.xml" afterPath="$PROJECT_DIR$/product-data-provider/src/main/resources/dubbo-spring-mybatis.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-data-provider/src/main/resources/generatorConfig.xml" afterPath="$PROJECT_DIR$/product-data-provider/src/main/resources/generatorConfig.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-data-provider/src/main/resources/jdbc.properties" afterPath="$PROJECT_DIR$/product-data-provider/src/main/resources/jdbc.properties" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-data-provider/src/main/resources/log4j.properties" afterPath="$PROJECT_DIR$/product-data-provider/src/main/resources/log4j.properties" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-data-provider/src/main/resources/spring-mybatis.xml" afterPath="$PROJECT_DIR$/product-data-provider/src/main/resources/spring-mybatis.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-openapi/.classpath" afterPath="$PROJECT_DIR$/product-openapi/.classpath" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-openapi/.gitignore" afterPath="$PROJECT_DIR$/product-openapi/.gitignore" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-openapi/.project" afterPath="$PROJECT_DIR$/product-openapi/.project" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-openapi/.settings/org.eclipse.core.resources.prefs" afterPath="$PROJECT_DIR$/product-openapi/.settings/org.eclipse.core.resources.prefs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-openapi/.settings/org.eclipse.jdt.core.prefs" afterPath="$PROJECT_DIR$/product-openapi/.settings/org.eclipse.jdt.core.prefs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-openapi/.settings/org.eclipse.m2e.core.prefs" afterPath="$PROJECT_DIR$/product-openapi/.settings/org.eclipse.m2e.core.prefs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-openapi/dearbinge-openapi.iml" afterPath="$PROJECT_DIR$/product-openapi/product-openapi.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-openapi/pom.xml" afterPath="$PROJECT_DIR$/product-openapi/pom.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-openapi/src/main/java/com/dearbinge/openapi/HttpSessionConfig.java" afterPath="$PROJECT_DIR$/product-openapi/src/main/java/com/product/openapi/HttpSessionConfig.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-openapi/src/main/java/com/dearbinge/openapi/ParkingSpotDataTrans.java" afterPath="$PROJECT_DIR$/product-openapi/src/main/java/com/product/openapi/ParkingSpotDataTrans.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-openapi/src/main/java/com/dearbinge/service/InfrastructDeal.java" afterPath="$PROJECT_DIR$/product-openapi/src/main/java/com/product/service/InfrastructDeal.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-openapi/src/main/java/com/dearbinge/service/impl/ParkingBasicDataSync.java" afterPath="$PROJECT_DIR$/product-openapi/src/main/java/com/product/service/impl/ParkingBasicDataSync.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-openapi/src/main/java/org/dearbinge/openapi/App.java" afterPath="$PROJECT_DIR$/product-openapi/src/main/java/org/product/openapi/App.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-openapi/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/product-openapi/src/main/resources/application.properties" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-openapi/src/main/resources/applicationContext.xml" afterPath="$PROJECT_DIR$/product-openapi/src/main/resources/applicationContext.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-openapi/src/main/resources/dubbo-services.xml" afterPath="$PROJECT_DIR$/product-openapi/src/main/resources/dubbo-services.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-openapi/src/main/resources/log4j.properties" afterPath="$PROJECT_DIR$/product-openapi/src/main/resources/log4j.properties" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-openapi/src/main/resources/static/test.jpg" afterPath="$PROJECT_DIR$/product-openapi/src/main/resources/static/test.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-parent.iml" afterPath="$PROJECT_DIR$/product-parent.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-security/.classpath" afterPath="$PROJECT_DIR$/product-security/.classpath" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-security/.gitignore" afterPath="$PROJECT_DIR$/product-security/.gitignore" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-security/.project" afterPath="$PROJECT_DIR$/product-security/.project" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-security/.settings/org.eclipse.core.resources.prefs" afterPath="$PROJECT_DIR$/product-security/.settings/org.eclipse.core.resources.prefs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-security/.settings/org.eclipse.jdt.core.prefs" afterPath="$PROJECT_DIR$/product-security/.settings/org.eclipse.jdt.core.prefs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-security/.settings/org.eclipse.m2e.core.prefs" afterPath="$PROJECT_DIR$/product-security/.settings/org.eclipse.m2e.core.prefs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-security/dearbinge-security.iml" afterPath="$PROJECT_DIR$/product-security/product-security.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-security/pom.xml" afterPath="$PROJECT_DIR$/product-security/pom.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-security/src/main/java/com/dearbinge/security/interceptor/UserSecurityInterceptor.java" afterPath="$PROJECT_DIR$/product-security/src/main/java/com/product/security/interceptor/UserSecurityInterceptor.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-security/src/main/resources/dubbo-services.xml" afterPath="$PROJECT_DIR$/product-security/src/main/resources/dubbo-services.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-utils/.classpath" afterPath="$PROJECT_DIR$/product-utils/.classpath" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-utils/.gitignore" afterPath="$PROJECT_DIR$/product-utils/.gitignore" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-utils/.project" afterPath="$PROJECT_DIR$/product-utils/.project" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-utils/.settings/org.eclipse.core.resources.prefs" afterPath="$PROJECT_DIR$/product-utils/.settings/org.eclipse.core.resources.prefs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-utils/.settings/org.eclipse.jdt.core.prefs" afterPath="$PROJECT_DIR$/product-utils/.settings/org.eclipse.jdt.core.prefs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-utils/.settings/org.eclipse.m2e.core.prefs" afterPath="$PROJECT_DIR$/product-utils/.settings/org.eclipse.m2e.core.prefs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-utils/dearbinge-utils.iml" afterPath="$PROJECT_DIR$/product-utils/product-utils.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-utils/pom.xml" afterPath="$PROJECT_DIR$/product-utils/pom.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-utils/src/main/java/com/dearbinge/utils/Constants.java" afterPath="$PROJECT_DIR$/product-utils/src/main/java/com/product/utils/Constants.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-utils/src/main/java/com/dearbinge/utils/JsonUtil.java" afterPath="$PROJECT_DIR$/product-utils/src/main/java/com/product/utils/JsonUtil.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-utils/src/main/java/com/dearbinge/utils/RandomUtil.java" afterPath="$PROJECT_DIR$/product-utils/src/main/java/com/product/utils/RandomUtil.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-utils/src/main/java/com/dearbinge/utils/ReturnCode.java" afterPath="$PROJECT_DIR$/product-utils/src/main/java/com/product/utils/ReturnCode.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dearbinge-utils/src/main/java/com/dearbinge/utils/Test.java" afterPath="$PROJECT_DIR$/product-utils/src/main/java/com/product/utils/Test.java" />
     </list>
     <ignored path="dearbinge-parent.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -147,7 +41,7 @@
       <file leaf-file-name="ParkingSpotDataTrans.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/product-openapi/src/main/java/com/product/openapi/ParkingSpotDataTrans.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
+            <state relative-caret-position="263">
               <caret line="109" column="0" selection-start-line="109" selection-start-column="0" selection-end-line="109" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -773,370 +667,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="dubbo-pro" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dearbinge-parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dubbo-pro" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="product-security" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dearbinge-parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dubbo-pro" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="product-openapi" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dearbinge-parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dubbo-pro" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="product-openapi" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dearbinge-parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dubbo-pro" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="product-openapi" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dearbinge-parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dubbo-pro" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="product-openapi" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="product" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="service" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dearbinge-parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dubbo-pro" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="product-openapi" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="product" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="openapi" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dearbinge-parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dubbo-pro" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="product-data-provider" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dearbinge-parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dubbo-pro" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="product-data-provider" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dearbinge-parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dubbo-pro" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="product-data-provider" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="impl" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dearbinge-parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dubbo-pro" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="product-data-provider" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="register" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dearbinge-parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dubbo-pro" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="product-data-provider" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dearbinge-parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dubbo-pro" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="product-data-domain" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dearbinge-parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dubbo-pro" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="product-data-domain" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pojo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dearbinge-parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dubbo-pro" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="product-data-domain" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1769,15 +1299,15 @@
       <workItem from="1484357430196" duration="6356000" />
       <workItem from="1484366633430" duration="6197000" />
       <workItem from="1484376708070" duration="18346000" />
-      <workItem from="1484411542425" duration="2401000" />
+      <workItem from="1484411542425" duration="2849000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48080000" />
+    <option name="totallyTimeSpent" value="48528000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1372" height="735" extended-state="1" />
+    <frame x="-7" y="0" width="1372" height="735" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1793,13 +1323,13 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.608985" sideWeight="0.49694657" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25838414" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2660061" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.46256238" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18635607" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -2327,7 +1857,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/product-openapi/src/main/java/com/product/openapi/ParkingSpotDataTrans.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
+        <state relative-caret-position="263">
           <caret line="109" column="0" selection-start-line="109" selection-start-column="0" selection-end-line="109" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />

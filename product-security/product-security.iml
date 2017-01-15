@@ -20,7 +20,7 @@
     <orderEntry type="library" name="Maven: commons-logging:commons-logging:1.2" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-web:4.2.8.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.apache.tomcat.embed:tomcat-embed-core:8.0.30" level="project" />
-    <orderEntry type="module" module-name="dearbinge-data-api" />
+    <orderEntry type="module" module-name="product-data-api" />
     <orderEntry type="module" module-name="product-data-domain" />
     <orderEntry type="module" module-name="product-utils" />
     <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-core:2.7.3" level="project" />

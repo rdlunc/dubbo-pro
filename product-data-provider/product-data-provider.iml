@@ -10,7 +10,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="dearbinge-data-api" />
+    <orderEntry type="module" module-name="product-data-api" />
     <orderEntry type="module" module-name="product-data-domain" />
     <orderEntry type="module" module-name="product-utils" />
     <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-core:2.7.3" level="project" />
