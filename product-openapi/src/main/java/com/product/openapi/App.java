@@ -1,8 +1,8 @@
-package org.product.openapi;
+package com.product.openapi;
 
 import org.springframework.boot.SpringApplication;
 
-import com.product.openapi.ParkingSpotDataTrans;
+import com.product.web.ParkingSpotDataTrans;
 
 public class App {
 	public static void main(String[] args) {

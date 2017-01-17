@@ -31,7 +31,7 @@
         <module name="product-utils" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="1.8">
       <module name="product-client-test" target="1.8" />
       <module name="product-data-api" target="1.8" />
       <module name="product-data-domain" target="1.8" />

@@ -1,4 +1,4 @@
-package com.product.openapi;
+package com.product.web;
 
 import java.io.IOException;
 import java.net.InetAddress;
@@ -15,6 +15,7 @@ import com.product.data.api.CityService;
 import com.product.data.pojo.Security;
 import com.product.data.pojo.City;
 import com.product.service.InfrastructDeal;
+import io.swagger.annotations.ApiOperation;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.context.annotation.ImportResource;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -100,6 +101,7 @@ public class ParkingSpotDataTrans extends WebMvcConfigurerAdapter {
 
 	}
 
+	@ApiOperation(value = "测试接口", notes = "默认返回北京城市信息json")
 	@RequestMapping(value = "/getTest", method = RequestMethod.GET, produces = "application/json; charset=UTF-8")
 	public Map<String, Object> test(HttpServletRequest request, HttpServletResponse response){
 //		Security security = securityService.getSecurityByKey("0eca8f5373ca4866aec2f8e9d9367104");

@@ -1,4 +1,4 @@
-package com.product.openapi;
+package com.product.web;
 
 import org.springframework.session.data.redis.config.annotation.web.http.EnableRedisHttpSession;
 
