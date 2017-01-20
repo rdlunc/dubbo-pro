@@ -7,8 +7,8 @@ import org.springframework.stereotype.Component;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.product.data.domain.ParkingBasicDataSyncResponse;
 import com.product.service.InfrastructDeal;
-import com.product.utils.JsonUtil;
-import com.product.utils.ReturnCode;
+import com.product.utils.util.JsonUtil;
+import com.product.utils.util.ReturnCode;
 
 @Component
 public class ParkingBasicDataSync implements InfrastructDeal {

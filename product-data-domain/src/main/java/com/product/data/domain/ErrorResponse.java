@@ -1,7 +1,7 @@
 package com.product.data.domain;
 
 import com.fasterxml.jackson.annotation.JsonRootName;
-import com.product.utils.Constants;
+import com.product.utils.util.Constants;
 
 @JsonRootName(Constants.ERROR_RESPONSE)
 public class ErrorResponse {

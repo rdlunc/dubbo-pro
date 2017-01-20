@@ -15,8 +15,8 @@ import org.apache.http.message.BasicNameValuePair;
 import org.apache.http.util.EntityUtils;
 
 import com.fasterxml.jackson.databind.JsonNode;
-import com.product.utils.Constants;
-import com.product.utils.JsonUtil;
+import com.product.utils.util.Constants;
+import com.product.utils.util.JsonUtil;
 
 /**
  * Hello world!

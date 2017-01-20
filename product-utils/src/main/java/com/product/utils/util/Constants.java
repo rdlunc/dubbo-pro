@@ -1,4 +1,4 @@
-package com.product.utils;
+package com.product.utils.util;
 
 public class Constants {
 	public static final String SIGN_METHOD_MD5 = "md5";

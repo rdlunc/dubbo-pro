@@ -10,8 +10,8 @@ import org.springframework.web.servlet.ModelAndView;
 
 import com.product.data.domain.ErrorResponse;
 import com.product.data.pojo.Security;
-import com.product.utils.JsonUtil;
-import com.product.utils.ReturnCode;
+import com.product.utils.util.JsonUtil;
+import com.product.utils.util.ReturnCode;
 
 public class UserSecurityInterceptor implements HandlerInterceptor {
 	private static ClassPathXmlApplicationContext context = null;

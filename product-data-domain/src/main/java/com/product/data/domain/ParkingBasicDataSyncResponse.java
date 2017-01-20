@@ -1,7 +1,7 @@
 package com.product.data.domain;
 
 import com.fasterxml.jackson.annotation.JsonRootName;
-import com.product.utils.Constants;
+import com.product.utils.util.Constants;
 
 @JsonRootName(Constants.PARKING_BASIC_DATA_SYNC_RESPONSE)
 public class ParkingBasicDataSyncResponse {
