@@ -4,14 +4,12 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 import lombok.ToString;
-import lombok.extern.log4j.Log4j;
 
 import java.io.Serializable;
 import java.util.Date;
 
 @ToString
 @Data
-@Log4j
 @NoArgsConstructor
 @AllArgsConstructor
 public class Security implements Serializable {

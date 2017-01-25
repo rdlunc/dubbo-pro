@@ -3,7 +3,8 @@ package com.product.security.interceptor;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import com.product.data.api.SecurityService;
+import com.product.data.api.CityService;
+import com.product.data.pojo.City;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 import org.springframework.web.servlet.HandlerInterceptor;
 import org.springframework.web.servlet.ModelAndView;
@@ -47,8 +48,8 @@ public class UserSecurityInterceptor implements HandlerInterceptor {
 		String secret_key = arg0.getParameter("secret_key");
 		ErrorResponse errorResponse = new ErrorResponse();
 		getContext();
-		SecurityService securityService = (SecurityService) context.getBean("securityService");
-		Security security = securityService.getSecurityByKey(secret_key); // 执行远程方法
+		CityService cityService = (CityService) context.getBean("securityService");
+		City security = cityService.getCityById(1); // 执行远程方法
 		if (security == null) {
 			errorResponse.setCode(String.valueOf(ReturnCode.SECURITY_IS_NOT_EXIST_OR_EXPIRED.ordinal()));
 			errorResponse.setMsg(ReturnCode.SECURITY_IS_NOT_EXIST_OR_EXPIRED.toString());

@@ -1,9 +1,11 @@
-package com.product.data.dao;
+package com.product.data.api;
 
 import com.product.data.pojo.District;
 
-public interface DistrictMapper {
-
+/**
+ * Created by xusha on 2017/1/26.
+ */
+public interface DistrictService {
     int deleteByPrimaryKey(Integer guid);
 
     int insert(District record);

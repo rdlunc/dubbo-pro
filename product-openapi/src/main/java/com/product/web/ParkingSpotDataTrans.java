@@ -12,7 +12,6 @@ import javax.servlet.http.HttpSession;
 
 import com.product.security.interceptor.UserSecurityInterceptor;
 import com.product.data.api.CityService;
-import com.product.data.pojo.Security;
 import com.product.data.pojo.City;
 import com.product.service.InfrastructDeal;
 import io.swagger.annotations.ApiOperation;
@@ -24,16 +23,12 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.servlet.config.annotation.InterceptorRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter;
 
-import com.product.data.api.SecurityService;
-
 @RestController
 @ImportResource({ "classpath:applicationContext.xml", "dubbo-services.xml" })
 @EnableAutoConfiguration
 public class ParkingSpotDataTrans extends WebMvcConfigurerAdapter {
 	@Resource
 	private Map<String, InfrastructDeal> posDataServiceMap;
-	@Resource
-	private SecurityService securityService;
 
 	@Resource
 	private CityService cityService;

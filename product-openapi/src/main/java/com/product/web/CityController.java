@@ -34,6 +34,8 @@ public class CityController {
     @RequestMapping(value = "/getCity", method = RequestMethod.GET, produces = ContentType.APPLICATION_JSON_UTF8)
     public ResponseResult<City> getCity(HttpServletRequest request, HttpServletResponse response , City city){
         logger.info("getCity start");
-        return RestResultGenerator.genResult(cityService.getCityById(city.getGuid()),"获取城市信息成功");
+        return RestResultGenerator.genResult(cityService.selectByPrimaryKey(city.getGuid()),"获取城市信息成功");
     }
+
+
 }

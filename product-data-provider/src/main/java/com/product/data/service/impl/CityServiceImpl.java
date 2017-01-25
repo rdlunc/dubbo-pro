@@ -15,8 +15,34 @@ public class CityServiceImpl implements CityService {
     @Resource
     private CityMapper cityMapper;
 
+
     @Override
-    public City getCityById(Integer id) {
-        return cityMapper.selectByPrimaryKey(id);
+    public int deleteByPrimaryKey(Integer guid) {
+        return cityMapper.deleteByPrimaryKey(guid);
+    }
+
+    @Override
+    public int insert(City record) {
+        return cityMapper.insert(record);
+    }
+
+    @Override
+    public int insertSelective(City record) {
+        return cityMapper.insertSelective(record);
+    }
+
+    @Override
+    public City selectByPrimaryKey(Integer guid) {
+        return cityMapper.selectByPrimaryKey(guid);
+    }
+
+    @Override
+    public int updateByPrimaryKeySelective(City record) {
+        return cityMapper.updateByPrimaryKeySelective(record);
+    }
+
+    @Override
+    public int updateByPrimaryKey(City record) {
+        return cityMapper.updateByPrimaryKey(record);
     }
 }
