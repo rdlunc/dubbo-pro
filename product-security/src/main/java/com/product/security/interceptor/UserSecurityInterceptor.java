@@ -49,7 +49,7 @@ public class UserSecurityInterceptor implements HandlerInterceptor {
 		ErrorResponse errorResponse = new ErrorResponse();
 		getContext();
 		CityService cityService = (CityService) context.getBean("securityService");
-		City security = cityService.getCityById(1); // 执行远程方法
+		City security = cityService.selectByPrimaryKey(1); // 执行远程方法
 		if (security == null) {
 			errorResponse.setCode(String.valueOf(ReturnCode.SECURITY_IS_NOT_EXIST_OR_EXPIRED.ordinal()));
 			errorResponse.setMsg(ReturnCode.SECURITY_IS_NOT_EXIST_OR_EXPIRED.toString());

@@ -13,7 +13,7 @@
 	<bean id="posDataServiceMap" class="java.util.HashMap">
 		<constructor-arg>
 			<map>
-				<entry key="product.parkingbasicdata.sync">
+				<entry key="product.appdata.sync">
 					<bean class="com.product.service.impl.ParkingBasicDataSync"></bean>
 				</entry>
 			</map>
